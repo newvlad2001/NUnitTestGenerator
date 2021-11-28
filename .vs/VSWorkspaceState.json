@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\TestGenerator",
+    "\\Core\\TestGenerator\\Implementations"
+  ],
+  "SelectedNode": "\\Core\\TestGenerator\\Implementations\\NUnitTestGenerator.cs",
+  "PreviewInSolutionExplorer": false
+}
